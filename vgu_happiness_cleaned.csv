@@ -1,0 +1,72 @@
+Gender,Age,Height,Weight,Hobbies,City,Major,Living Situation,Satisfaction with Courses,Quality of Teaching Methods,Manageable Study Workload,Adaptation to Teaching Style,Satisfaction with Campus Cleanliness,Internet/WiFi Quality,Canteen Satisfaction,Canteen Price Satisfaction,Study Space Satisfaction,Friendship Quality,Number of Clubs,International Student Interaction,Campus Social Events Satisfaction,Personal Growth,German Language Progress,Stress Management,Hours of Sleep,Exam Anxiety,Counseling Awareness,Tuition Satisfaction,Living Cost Management,Scholarship Satisfaction,Happiness
+Male,21,170.0,70.0,"Sports, Reading, Gaming, Music",Phu Yen,CSE,University dormitory,4,4,3,5,3,3,4,4,5,5,3,4,4,4,5,4,5-6 hours,3,"Yes, and I've used them",4,3,5,5
+Male,21,171.0,65.0,"Sports, Reading, Gaming, Music",Ho Chi Minh,CSE,University dormitory,3,3,3,5,5,5,3,4,4,5,1,3,3,4,3,5,7-8 hours,2,"Yes, but I haven't used them",5,5,5,5
+Male,21,174.0,72.0,"Sports, Reading, Music",Vung Tau,CSE,University dormitory,4,4,3,5,3,4,4,3,5,5,0,3,5,4,3,3,5-6 hours,4,"No, I wasn't aware",4,5,5,4
+Male,21,172.0,78.0,"Sports, Music, Hacking",Ho Chi Minh,CSE,University dormitory,3,4,4,4,3,3,2,2,3,5,1,4,4,4,3,4,6-7 hours,3,"Yes, but I haven't used them",3,3,5,4
+Male,21,168.0,80.0,"Sports, Reading, Gaming, Music, Art",Dong Thap,CSE,University dormitory,5,5,5,5,4,3,3,3,2,5,3,3,5,5,3,4,5-6 hours,1,"Yes, and I've used them",4,4,4,5
+Female,19,154.0,54.0,"Sports, Music",Vung Tau,BFA,University dormitory,4,4,3,5,3,3,3,2,4,5,0,4,4,4,4,3,6-7 hours,5,"Yes, but I haven't used them",3,4,2,4
+Male,21,167.0,66.0,"Sports, Gaming, Music, Art",Ho Chi Minh,CSE,Home with family,5,4,4,4,4,3,2,4,5,5,0,4,5,5,4,3,5-6 hours,4,"Yes, but I haven't used them",5,4,5,5
+Female,20,160.0,52.0,"Sports, Reading, Music, Art",Ho Chi Minh,BBA,University dormitory,3,3,3,3,3,3,3,3,3,3,1,3,3,3,3,3,6-7 hours,3,"Yes, but I haven't used them",3,3,3,3
+Female,19,159.0,50.0,"Sports, Reading",Ho Chi Minh,BBA,University dormitory,5,5,5,5,3,1,3,2,5,5,2,3,3,5,3,5,6-7 hours,3,"No, I wasn't aware",3,4,3,5
+Female,19,167.0,58.0,Internet Surfing,Quang Nam,BFA,University dormitory,3,3,3,3,4,5,4,2,4,4,1,2,2,3,4,3,6-7 hours,4,"Yes, but I haven't used them",4,4,2,3
+Female,19,160.0,60.0,"Reading, Art",Vung Tau,BFA,University dormitory,3,4,1,4,5,4,2,1,5,5,3,3,5,4,4,5,6-7 hours,5,"Yes, but I haven't used them",4,3,4,5
+Male,19,170.0,78.0,"Sports, Reading, Gaming, Music",Vung Tau,CSE,University dormitory,3,3,3,4,4,3,3,3,3,4,0,2,3,3,3,3,5-6 hours,3,"Yes, but I haven't used them",3,3,3,3
+Female,19,165.0,47.0,"Sports, Art",Ho Chi Minh,ARC,University dormitory,3,3,3,4,4,3,1,1,4,5,1,3,3,4,4,3,6-7 hours,4,"Yes, but I haven't used them",4,3,3,4
+Female,19,164.0,50.0,Watching movies,Vung Tau,BBA,University dormitory,4,3,3,3,3,4,3,3,3,3,2,2,2,3,3,3,5-6 hours,3,"Yes, but I haven't used them",4,3,4,4
+Male,21,162.0,60.0,"Sports, Gaming",Da Nang,CSE,University dormitory,4,4,4,4,4,3,2,2,4,5,0,3,3,4,4,4,6-7 hours,4,"Yes, and I've used them",3,3,4,4
+Female,21,160.0,47.0,"Sports, Reading, Music",Ho Chi Minh,BFA,Rental apartment/house,3,4,4,4,4,3,4,4,5,5,2,2,4,4,3,4,7-8 hours,4,"Yes, and I've used them",4,3,4,4
+Male,21,175.0,61.0,"Gaming, Music",Vung Tau,CSE,University dormitory,3,4,3,4,2,5,2,3,5,5,0,2,2,4,3,2,7-8 hours,5,"No, I wasn't aware",3,4,5,3
+Male,21,173.0,68.0,"Sports, Reading, Music",Ho Chi Minh,CSE,University dormitory,3,3,3,3,3,3,4,4,3,3,1,3,3,3,3,3,6-7 hours,4,"Yes, but I haven't used them",3,3,3,3
+Male,21,170.0,62.0,Gaming,Vung Tau,CSE,Rental apartment/house,4,5,4,5,5,4,3,3,5,3,0,4,4,4,3,5,7-8 hours,4,"Yes, but I haven't used them",5,4,5,4
+Male,21,179.0,74.0,"Reading, Gaming, Music",Vung Tau,CSE,University dormitory,3,3,3,3,2,4,2,1,3,3,0,1,1,1,1,4,6-7 hours,5,"No, I wasn't aware",2,4,1,1
+Male,21,168.0,60.0,"Gaming, Music",Binh Duong,CSE,Home with family,3,3,4,4,2,4,5,5,5,5,0,3,3,5,3,4,5-6 hours,1,"No, I wasn't aware",2,4,3,5
+Male,21,174.0,72.0,Sports,Vung Tau,CSE,Rental apartment/house,2,3,1,4,3,2,3,3,5,5,0,3,4,4,2,1,7-8 hours,4,"No, I wasn't aware",2,1,5,4
+Male,21,183.0,90.0,"Sports, Reading, Gaming, Music, Art",Hai Phong,CSE,I live in both the dorm and at home,3,4,5,5,4,2,3,3,5,5,0,4,4,5,5,5,Less than 5 hours,3,"No, I wasn't aware",4,5,5,3
+Male,21,170.0,65.0,"Sports, Reading, Gaming, Music",Ho Chi Minh,CSE,Home with family,4,3,4,4,2,3,3,3,4,4,0,3,3,4,4,4,5-6 hours,2,"Yes, and I've used them",4,5,4,4
+Male,21,170.0,58.0,"Sports, Gaming, Music",Ho Chi Minh,CSE,Home with family,5,5,5,5,5,3,4,5,5,5,0,3,5,5,5,3,7-8 hours,4,"No, I wasn't aware",3,4,5,5
+Male,20,180.0,65.0,"Reading, Gaming",Ho Chi Minh,CSE,Home with family,3,2,4,3,4,4,4,4,5,4,1,3,3,4,3,4,6-7 hours,2,"Yes, but I haven't used them",5,4,5,5
+Male,19,176.0,74.0,Learning,Ho Chi Minh,CSE,University dormitory,4,4,4,4,4,4,4,5,4,4,0,1,3,4,4,3,5-6 hours,4,"No, I wasn't aware",3,4,5,4
+Male,21,172.0,78.0,"Reading, Gaming, Music",Ho Chi Minh,CSE,University dormitory,3,4,3,4,3,4,3,3,3,3,0,3,3,3,2,2,6-7 hours,3,"No, I wasn't aware",3,4,4,3
+Male,21,165.0,73.0,"Reading, Music",Ho Chi Minh,CSE,Home with family,3,3,2,4,4,2,3,3,4,3,0,1,1,3,3,2,6-7 hours,2,"No, I wasn't aware",4,3,3,3
+Female,19,160.0,50.0,"Gaming, Music",Binh Duong,BBA,Home with family,4,3,3,3,5,2,3,3,5,3,0,3,2,3,3,3,6-7 hours,3,"Yes, and I've used them",3,2,5,4
+Female,18,168.0,78.0,"Sports, Gaming, Music",Vung Tau,BFA,University dormitory,4,4,4,4,5,3,4,4,4,5,1,3,4,3,3,3,5-6 hours,4,"Yes, but I haven't used them",5,4,3,5
+Male,19,172.0,62.0,"Sports, Gaming, Music",Ho Chi Minh,BFA,University dormitory,3,3,2,3,2,2,2,2,3,4,1,3,2,4,3,2,6-7 hours,5,"No, I wasn't aware",4,3,3,4
+Male,19,167.0,73.0,Sports,Ho Chi Minh,BBA,University dormitory,5,5,4,5,3,4,4,4,5,4,1,3,5,4,3,4,5-6 hours,3,"No, I wasn't aware",5,4,5,5
+Male,19,172.0,68.0,"Sports, Music",Vung Tau,BCE,University dormitory,3,3,2,3,3,1,2,2,4,3,2,3,3,3,3,2,7-8 hours,4,"No, I wasn't aware",3,3,4,4
+Male,19,168.0,65.0,Sports,Ha Noi,BFA,University dormitory,3,4,5,4,5,3,3,4,4,4,2,5,5,3,4,4,7-8 hours,4,"Yes, and I've used them",4,5,4,4
+Female,18,163.0,59.0,"Sports, Music",Vung Tau,CSE,University dormitory,3,4,4,4,5,2,3,4,5,5,1,3,5,3,3,5,6-7 hours,4,"Yes, and I've used them",5,3,3,5
+Female,20,150.0,42.0,"Sports, Reading, Gaming, Music, Art",Ho Chi Minh,ARC,University dormitory,3,3,4,4,4,3,1,1,3,3,1,3,3,4,5,3,6-7 hours,4,"Yes, but I haven't used them",3,1,3,3
+Male,20,170.0,67.0,"Sports, Music",Ho Chi Minh,MEN,Home with family,3,4,3,3,4,2,2,2,3,5,0,3,3,4,4,3,5-6 hours,4,"Yes, but I haven't used them",3,3,3,3
+Male,20,162.0,52.0,"Sports, Reading, Gaming, Music",Vung Tau,CSE,University dormitory,4,4,4,4,3,5,1,1,2,3,1,4,3,4,4,4,7-8 hours,4,"No, I wasn't aware",3,3,5,4
+Male,19,175.0,56.0,"Sports, Reading",Ho Chi Minh,CSE,University dormitory,4,4,4,4,4,4,3,3,4,4,0,3,3,4,3,4,7-8 hours,3,"No, I wasn't aware",4,3,3,4
+Male,21,167.0,77.0,"Reading, Gaming, Music",Ho Chi Minh,CSE,University dormitory,3,4,2,3,5,3,3,1,4,3,0,4,3,3,3,2,5-6 hours,4,"Yes, but I haven't used them",4,4,4,3
+Male,21,169.0,68.0,"Sports, Gaming, Music",Ho Chi Minh,CSE,University dormitory,4,4,4,5,5,4,4,4,3,5,0,4,4,5,4,4,7-8 hours,2,"No, I wasn't aware",4,5,4,4
+Male,19,175.5,83.0,"Sports, Gaming",Ho Chi Minh,CSE,University dormitory,4,4,5,5,4,3,4,3,5,5,0,2,3,4,5,5,7-8 hours,3,"Yes, but I haven't used them",5,5,5,4
+Male,22,178.0,85.0,"Sports, Reading, Gaming, Music, Art",Ho Chi Minh,CSE,University dormitory,4,4,4,4,3,1,1,1,5,5,3,5,5,5,5,4,6-7 hours,4,"No, I wasn't aware",4,5,5,5
+Female,21,159.0,43.0,"Reading, Gaming, Music, Art",Nha Trang,BFA,Rental apartment/house,3,4,2,4,4,3,2,3,5,2,2,2,2,3,3,3,7-8 hours,5,"No, I wasn't aware",3,5,2,3
+Male,21,174.0,75.0,"Sports, Music",Ho Chi Minh,CSE,University dormitory,4,4,4,4,4,3,3,3,3,4,0,3,3,3,3,3,6-7 hours,4,"Yes, but I haven't used them",3,3,3,3
+Male,19,168.0,65.0,"Sports, Reading, Gaming",Ho Chi Minh,CSE,University dormitory,4,4,4,5,5,3,4,3,4,5,0,5,1,5,5,5,6-7 hours,5,"Yes, but I haven't used them",5,4,5,5
+Male,21,172.0,68.0,"Sports, Gaming, Music",Vung Tau,ECE,University dormitory,5,5,2,4,5,4,3,3,3,5,3,3,3,4,5,4,6-7 hours,2,"No, I wasn't aware",3,3,2,5
+Female,21,158.0,58.0,"Reading, Gaming, Music",Ho Chi Minh,CSE,Home with family,3,4,3,4,4,3,3,4,4,4,0,3,4,4,4,2,6-7 hours,4,"Yes, but I haven't used them",3,4,4,4
+Female,21,170.0,50.0,"Gaming, Music",Binh Duong,CSE,Home with family,3,3,3,2,5,4,1,2,4,5,0,2,2,3,2,2,6-7 hours,4,"Yes, and I've used them",2,3,3,3
+Male,21,183.0,74.4,"Sports, Gaming, Music, Art",Dong Nai,CSE,Home with family,3,3,3,3,4,3,3,3,3,3,1,3,4,3,3,2,7-8 hours,4,"No, I wasn't aware",3,3,3,3
+Male,20,170.0,78.0,"Sports, Gaming, Music",Ho Chi Minh,CSE,Home with family,4,4,5,5,5,4,3,2,5,5,0,5,5,5,4,4,Less than 5 hours,3,"Yes, but I haven't used them",4,3,5,5
+Female,21,171.0,61.0,"Reading, Gaming, Music",Ho Chi Minh,CSE,University dormitory,3,4,4,4,3,2,2,3,4,5,0,3,2,4,2,4,6-7 hours,3,"No, I wasn't aware",3,3,2,4
+Male,21,191.0,83.0,"Sports, Gaming, Music",Ho Chi Minh,CSE,University dormitory,4,4,4,4,1,2,3,3,4,4,1,4,4,4,4,3,7-8 hours,3,"No, I wasn't aware",4,4,4,4
+Male,19,170.0,55.0,"Sports, Reading, Gaming",Tay Ninh,CSE,University dormitory,2,3,3,5,5,4,4,4,5,5,2,2,4,5,3,5,7-8 hours,3,"Yes, but I haven't used them",5,3,5,5
+Male,20,172.0,72.0,"Sports, Music, Art",Ho Chi Minh,BFA,Home with family,4,5,4,5,2,4,3,5,4,5,0,4,4,5,4,2,Less than 5 hours,3,"Yes, and I've used them",4,4,4,5
+Male,21,170.0,65.0,Sports,Dong Nai,CSE,University dormitory,3,3,3,5,5,3,2,1,4,4,0,2,2,3,3,3,6-7 hours,3,"No, I wasn't aware",3,2,5,5
+Male,20,170.0,62.0,"Sports, Reading, Gaming, Music",Ho Chi Minh,CSE,University dormitory,3,3,4,3,3,4,3,3,3,5,1,3,4,3,4,3,5-6 hours,3,"Yes, but I haven't used them",3,3,3,4
+Male,21,177.0,71.0,"Sports, Music",Ha Noi,ECE,University dormitory,3,3,4,4,4,3,2,1,4,4,1,3,3,5,3,4,6-7 hours,4,"Yes, but I haven't used them",2,3,2,2
+Female,20,155.0,50.0,"Reading, Music, Art",Binh Duong,BFA,Home with family,4,3,4,5,3,3,4,3,5,5,3,4,5,5,5,4,More than 8 hours,3,"Yes, and I've used them",4,4,5,5
+Male,20,175.0,75.0,"Sports, Reading, Gaming, Music",Binh Duong,MEN,Home with family,4,4,5,5,4,3,4,4,5,5,3,4,5,5,5,5,5-6 hours,4,"Yes, and I've used them",4,3,5,5
+Male,19,180.0,80.0,"Sports, Gaming, Music",Vung Tau,MEN,University dormitory,4,4,5,5,4,5,5,4,4,5,3,4,5,5,4,4,5-6 hours,4,"Yes, and I've used them",4,5,4,5
+Female,19,153.0,50.0,"Gaming, Music",Binh Duong,BFA,Home with family,4,4,3,5,4,4,4,5,4,4,2,4,5,5,4,5,7-8 hours,4,"Yes, and I've used them",4,5,4,5
+Male,21,170.0,62.0,"Gaming, Music",Ho Chi Minh,ECE,University dormitory,4,4,4,5,4,5,4,4,5,4,0,4,5,5,5,4,5-6 hours,4,"Yes, and I've used them",5,4,5,5
+Male,20,168.0,65.0,"Sports, Gaming",Ho Chi Minh,ECE,Home with family,4,4,4,5,4,4,3,3,4,5,0,4,5,5,4,5,6-7 hours,4,"Yes, but I haven't used them",5,4,4,5
+Female,19,157.0,49.0,"Gaming, Music",Vung Tau,BFA,University dormitory,4,4,5,5,4,4,4,5,4,5,3,5,4,5,4,5,More than 8 hours,5,"Yes, and I've used them",5,4,5,5
+Female,19,167.0,52.0,"Sports, Reading, Music",Binh Duong,BFA,Home with family,4,5,5,5,5,5,5,4,5,4,0,4,5,5,4,5,More than 8 hours,4,"Yes, but I haven't used them",5,5,4,5
+Female,20,159.0,47.0,"Reading, Music",Ho Chi Minh,BFA,University dormitory,5,4,4,5,4,4,5,4,4,5,0,4,5,5,4,4,7-8 hours,4,"Yes, but I haven't used them",5,5,4,5
+Male,21,180.0,50.0,"Sports, Gaming",Ho Chi Minh,CSE,University dormitory,4,5,4,4,5,5,5,4,4,5,0,4,5,5,4,5,6-7 hours,5,"Yes, and I've used them",5,5,4,5
+Female,20,159.0,51.0,"Music, Art",Dong Thap,BFA,University dormitory,4,5,4,5,5,4,5,5,4,5,3,2,4,5,4,5,7-8 hours,5,"Yes, and I've used them",5,4,5,5
+Male,20,175.0,80.0,"Sports, Gaming",An Giang,ECE,University dormitory,4,4,5,5,4,5,5,4,4,5,0,4,5,5,5,5,More than 8 hours,5,"Yes, and I've used them",5,4,5,5

@@ -1,0 +1,78 @@
+Timestamp,What is your gender?,What is your age? ,What is your height (in cm)? ,What is your weight (in kg)?,What are your main hobbies? (Select all that apply),Which city are you from?,"What is your major? (CSE, ECE, BA, BFA, ...)",What is your current living situation?,How satisfied are you with your courses this semester?,How would you rate the overall quality of teaching methods?,How manageable is your current study workload?,How well have you adapted to the German-Vietnamese teaching style?,How satisfied are you with campus cleanliness?,How would you rate the internet/WiFi quality on campus?,Rate your satisfaction with the canteen (Food quality),Rate your satisfaction with the canteen (Food price),How satisfied are you with the availability of study spaces?,How would you rate the quality of friendships you've made at VGU?,How many student clubs are you actively involved in?,How satisfied are you with your interactions with international students?,How satisfied are you with campus social events?,How much personal growth have you experienced at VGU?,How satisfied are you with your German language progress?,How well do you manage your stress levels?,"On average, how many hours of sleep do you get per night?",How would you rate your exam anxiety levels?,Are you aware of VGU's counseling services?,How satisfied are you with the tuition fees considering the education quality?,How well are you managing your living costs?,How satisfied are you with scholarship opportunities at VGU?,"Overall, how happy are you as a VGU student?",What would make your experience at VGU better?
+11/25/2024 13:17:46,Male,21,170,70,"Sports, Reading, Gaming, Music",Phú Yên,CSE,University dormitory,4,4,3,5,3,3,4,4,5,5,3,4,4,4,5,4,5-6 hours,3,"Yes, and I've used them",4,3,5,5,<3
+11/25/2024 13:23:19,Male,21,171,65,"Sports, Reading, Gaming, Music",Ho Chi Minh,CSE,University dormitory,3,3,3,5,5,5,3,4,4,5,1,3,3,4,3,5,7-8 hours,2,"Yes, but I haven't used them",5,5,5,5,"More hackers, bigger trees "
+11/25/2024 13:31:59,Male,21,174,72,"Sports, Reading, Music",Vung Tau,CSE,University dormitory,4,4,3,5,3,4,4,3,5,5,None,3,5,4,3,3,5-6 hours,4,"No, I wasn't aware",4,5,5,4,:3 many opportunities and places for students to showcase their talents
+11/25/2024 13:32:06,Male,21,172,78,"Sports, Music, Hacking",Ho Chi Minh,CSE,University dormitory,3,4,4,4,3,3,2,2,3,5,1,4,4,4,3,4,6-7 hours,3,"Yes, but I haven't used them",3,3,5,4,Close to my home :3
+11/25/2024 13:53:09,Male,21,168,80,"Sports, Reading, Gaming, Music, Art",Đồng Tháp,CSE,University dormitory,5,5,5,5,4,3,3,3,2,5,3,3,5,5,3,4,5-6 hours,1,"Yes, and I've used them",4,4,4,5,N.A
+11/25/2024 13:54:31,Female,19,154,54,"Sports, Music",Vũng Tàu,BFA,University dormitory,4,4,3,5,3,3,3,2,4,5,None,4,4,4,4,3,6-7 hours,5,"Yes, but I haven't used them",3,4,2,4,
+11/25/2024 13:58:48,Male,21,167,66,"Sports, Gaming, Music, Art",Ho Chi Minh,CSE,Home with family,5,4,4,4,4,3,2,4,5,5,None,4,5,5,4,3,5-6 hours,4,"Yes, but I haven't used them",5,4,5,5,
+11/25/2024 14:34:33,Female,20,160,52,"Sports, Reading, Music, Art",Ho Chi Minh,BBA,University dormitory,3,3,3,3,3,3,3,3,3,3,1,3,3,3,3,3,6-7 hours,3,"Yes, but I haven't used them",3,3,3,3,
+11/25/2024 14:35:11,Female,19,159,50,"Sports, Reading",Ho Chi Minh,BBA,University dormitory,5,5,5,5,3,1,3,2,5,5,2,3,3,5,3,5,6-7 hours,3,"No, I wasn't aware",3,4,3,5,
+11/25/2024 14:36:55,Female,19,167,58,Internet Surfing,Quang Nam,BFA,University dormitory,3,3,3,3,4,5,4,2,4,4,1,2,2,3,4,3,6-7 hours,4,"Yes, but I haven't used them",4,4,2,3,
+11/25/2024 14:41:13,Female,19,160,60,"Reading, Art",Vung Tau,BFA,University dormitory,3,4,1,4,5,4,2,1,5,5,3,3,5,4,4,5,6-7 hours,5,"Yes, but I haven't used them",4,3,4,5,Infrastructure
+11/25/2024 16:19:22,Male,19,170,78,"Sports, Reading, Gaming, Music",Vung Tau,CSE,University dormitory,3,3,3,4,4,3,3,3,3,4,None,2,3,3,3,3,5-6 hours,3,"Yes, but I haven't used them",3,3,3,3,:3
+11/25/2024 18:26:49,Female,19,165,47,"Sports, Art",Hcm,ARC,University dormitory,3,3,3,4,4,3,1,1,4,5,1,3,3,4,4,3,6-7 hours,4,"Yes, but I haven't used them",4,3,3,4,
+11/25/2024 20:14:28,Female,19,164,50,Watching movies,Vung Tau,BBA,University dormitory,4,3,3,3,3,4,3,3,3,3,2,2,2,3,3,3,5-6 hours,3,"Yes, but I haven't used them",4,3,4,4,
+11/25/2024 20:19:26,Male,21,162,60,"Sports, Gaming",Da Nang,CSE,University dormitory,4,4,4,4,4,3,2,2,4,5,None,3,3,4,4,4,6-7 hours,4,"Yes, and I've used them",3,3,4,4,
+11/25/2024 20:25:46,Female,21,160,47,"Sports, Reading, Music",Ho Chi Minh,BFA,Rental apartment/house,3,4,4,4,4,3,4,4,5,5,2,2,4,4,3,4,7-8 hours,4,"Yes, and I've used them",4,3,4,4,
+11/25/2024 21:56:46,Male,21,175,61,"Gaming, Music",Vung Tau,CSE,University dormitory,3,4,3,4,2,5,2,3,5,5,None,2,2,4,3,2,7-8 hours,5,"No, I wasn't aware",3,4,5,3,
+11/25/2024 21:59:13,Male,21,173,68,"Sports, Reading, Music",HCM,CSE,University dormitory,3,3,3,3,3,3,4,4,3,3,1,3,3,3,3,3,6-7 hours,4,"Yes, but I haven't used them",3,3,3,3,
+11/25/2024 22:01:29,Male,21,170,62,Gaming,Vũng Tàu,CSE,Rental apartment/house,4,5,4,5,5,4,3,3,5,3,None,4,4,4,3,5,7-8 hours,4,"Yes, but I haven't used them",5,4,5,4,
+11/25/2024 22:05:10,Male,21,179,74,"Reading, Gaming, Music",Vung Tau,CSE,University dormitory,3,3,3,3,2,4,2,1,3,3,None,1,1,1,1,4,6-7 hours,5,"No, I wasn't aware",2,4,1,1,no class
+11/25/2024 22:06:13,Male,21,168,60,"Gaming, Music",Binh Duong,CSE,Home with family,3,3,4,4,2,4,5,5,5,5,None,3,3,5,3,4,5-6 hours,1,"No, I wasn't aware",2,4,3,5,
+11/25/2024 22:08:52,Male,21,174,72,Sports,Vung Tau,Cse,Nhà trọ,2,3,1,4,3,2,3,3,5,5,None,3,4,4,2,1,7-8 hours,4,"No, I wasn't aware",2,1,5,4,Build the gym
+11/25/2024 22:12:55,Male,21,183,90,"Sports, Reading, Gaming, Music, Art",Hai Phong city,CSE,I live in both the dorm and at home,3,4,5,5,4,2,3,3,5,5,None,4,4,5,5,5,Less than 5 hours,3,"No, I wasn't aware",4,5,5,3,
+11/25/2024 22:13:31,Male,21,170,65,"Sports, Reading, Gaming, Music",Ho Chi Minh,CSE,Home with family,4,3,4,4,2,3,3,3,4,4,None,3,3,4,4,4,5-6 hours,2,"Yes, and I've used them",4,5,4,4,
+11/25/2024 22:18:37,Male,21,170,58,"Sports, Gaming, Music",HCMC,CSE,Home with family,5,5,5,5,5,3,4,5,5,5,None,3,5,5,5,3,7-8 hours,4,"No, I wasn't aware",3,4,5,5,More dorm rooms so that students can register single room. 
+11/25/2024 22:20:21,Male,20,180,65,"Reading, Gaming",Ho Chi Minh ,CSE,Home with family,3,2,4,3,4,4,4,4,5,4,1,3,3,4,3,4,6-7 hours,2,"Yes, but I haven't used them",5,4,5,5,
+11/25/2024 22:22:26,Male,19,176,74,Learning,Ho Chi Minh,CSE,University dormitory,4,4,4,4,4,4,4,5,4,4,None,1,3,4,4,3,5-6 hours,4,"No, I wasn't aware",3,4,5,4,More Scholarships 
+11/25/2024 22:23:12,Male,21,172,78,"Reading, Gaming, Music",Sai Gon,CSE,University dormitory,3,4,3,4,3,4,3,3,3,3,None,3,3,3,2,2,6-7 hours,3,"No, I wasn't aware",3,4,4,3,
+11/25/2024 22:29:42,Male,21,165,73,"Reading, Music",Ho Chi Minh city,CSE,Home with family,3,3,2,4,4,2,3,3,4,3,None,1,1,3,3,2,6-7 hours,2,"No, I wasn't aware",4,3,3,3,dorm's room better
+11/25/2024 22:40:14,Female,19,160,50kg,"Gaming, Music",Bình Dương,BBA,Home with family,4,3,3,3,5,2,3,3,5,3,None,3,2,3,3,3,6-7 hours,3,"Yes, and I've used them",3,2,5,4,
+11/25/2024 22:45:33,Female,18,168,78,"Sports, Gaming, Music",Vung Tau city,BFA,University dormitory,4,4,4,4,5,3,4,4,4,5,1,3,4,3,3,3,5-6 hours,4,"Yes, but I haven't used them",5,4,3,5,"If I have a boyfriend, we can study and go out together because most of my friend do not live in dormitory :(("
+11/25/2024 22:56:01,Male,19,172,62,"Sports, Gaming, Music",Ho Chi Minh city,BFA,University dormitory,3,3,2,3,2,2,2,2,3,4,1,3,2,4,3,2,6-7 hours,5,"No, I wasn't aware",4,3,3,4,
+11/25/2024 22:59:41,Male,19,167,73,Sports,Ho Chi Minh,BBA,University dormitory,5,5,4,5,3,4,4,4,5,4,1,3,5,4,3,4,5-6 hours,3,"No, I wasn't aware",5,4,5,5,More days off
+11/25/2024 23:00:27,Male,19,172,68cm,"Sports, Music",Vũng Tàu,BCE,University dormitory,3,3,2,3,3,1,2,2,4,3,2,3,3,3,3,2,7-8 hours,4,"No, I wasn't aware",3,3,4,4,self-study room 
+11/25/2024 23:05:09,Male,19,168,65,Sports,Ha Noi,BFA,University dormitory,3,4,5,4,5,3,3,4,4,4,2,5,5,3,4,4,7-8 hours,4,"Yes, and I've used them",4,5,4,4,Teaching frequently
+11/25/2024 23:21:54,Female,18,163,59,"Sports, Music",Vung Tau,CSE,University dormitory,3,4,4,4,5,2,3,4,5,5,1,3,5,3,3,5,6-7 hours,4,"Yes, and I've used them",5,3,3,5,the wifi/internet should be better
+11/25/2024 23:25:20,Female,20,150,42,"Sports, Reading, Gaming, Music, Art",HCM,ARC,University dormitory,3,3,4,4,4,3,1,1,3,3,1,3,3,4,5,3,6-7 hours,4,"Yes, but I haven't used them",3,1,3,3,Living far away from my house
+11/25/2024 23:35:58,Male,20,170,67,"Sports, Music",Ho Chi Minh City,MEN,Home with family,3,4,3,3,4,2,2,2,3,5,None,3,3,4,4,3,5-6 hours,4,"Yes, but I haven't used them",3,3,3,3,My Friendships 
+11/26/2024 0:02:29,Male,20,162,52,"Sports, Reading, Gaming, Music",Vung Tau City,CSE,University dormitory,4,4,4,4,3,5,1,1,2,3,1,4,3,4,4,4,7-8 hours,4,"No, I wasn't aware",3,3,5,4,
+11/26/2024 7:07:39,Male,19,175,56,"Sports, Reading",Ho Chi Minh city,CSE,University dormitory,4,4,4,4,4,4,3,3,4,4,None,3,3,4,3,4,7-8 hours,3,"No, I wasn't aware",4,3,3,4,Turn on air condition for the library al day instead of only from 8am to 4:30pm
+11/26/2024 9:01:50,Male,21,167,77,"Reading, Gaming, Music",Ho Chi Minh ,CSE,University dormitory,3,4,2,3,5,3,3,1,4,3,None,4,3,3,3,2,5-6 hours,4,"Yes, but I haven't used them",4,4,4,3,(no comment)
+11/26/2024 9:34:08,Male,21,169,68,"Sports, Gaming, Music",ho chi minh,cse,University dormitory,4,4,4,5,5,4,4,4,3,5,None,4,4,5,4,4,7-8 hours,2,"No, I wasn't aware",4,5,4,4,
+11/26/2024 10:07:55,Male,19,175.5,83,"Sports, Gaming",HCM,CSE,University dormitory,4,4,5,5,4,3,4,3,5,5,None,2,3,4,5,5,7-8 hours,3,"Yes, but I haven't used them",5,5,5,4,AC in VGU Library at night
+11/26/2024 10:23:11,Male,22,178,85,"Sports, Reading, Gaming, Music, Art",HCM city,CSE,University dormitory,4,4,4,4,3,1,1,1,5,5,3,5,5,5,5,4,6-7 hours,4,"No, I wasn't aware",4,5,5,5,
+11/26/2024 13:11:28,Female,21,159,43,"Reading, Gaming, Music, Art",Nha Trang,BFA,Rental apartment/house,3,4,2,4,4,3,2,3,5,2,2,2,2,3,3,3,7-8 hours,5,"No, I wasn't aware",3,5,2,3,"more bonding activities for students within each major and cross major also, especially in BA and FA "
+11/26/2024 13:30:06,Male,21,174,75,"Sports, Music",HCM,CSE,University dormitory,4,4,4,4,4,3,3,3,3,4,None,3,3,3,3,3,6-7 hours,4,"Yes, but I haven't used them",3,3,3,3,more student activities
+11/26/2024 20:41:07,Male,19,168,65,"Sports, Reading, Gaming",TP HCM,CSE,University dormitory,4,4,4,5,5,3,4,3,4,5,None,5,1,5,5,5,6-7 hours,5,"Yes, but I haven't used them",5,4,5,5,"Well obviously more scholarships
+Other than that
+More things that help students in learning the subjects
+"
+11/28/2024 20:20:33,Male,21,172,68,"Sports, Gaming, Music",Vung Tau,ECE,University dormitory,5,5,2,4,5,4,3,3,3,5,3,3,3,4,5,4,6-7 hours,2,"No, I wasn't aware",3,3,2,5,better facilities
+11/28/2024 20:28:48,Female,21,158,58,"Reading, Gaming, Music",HCM City,CSE,Home with family,3,4,3,4,4,3,3,4,4,4,None,3,4,4,4,2,6-7 hours,4,"Yes, but I haven't used them",3,4,4,4,
+11/28/2024 20:37:55,Female,21,170,50,"Gaming, Music",Thu Dau Mot,CSE,Home with family,3,3,3,2,5,4,1,2,4,5,None,2,2,3,2,2,6-7 hours,4,"Yes, and I've used them",2,3,3,3,
+11/28/2024 20:49:16,Male,21,183,74.4 kg,"Sports, Gaming, Music, Art",Dong Nai,CSE,Home with family,3,3,3,3,4,3,3,3,3,3,1,3,4,3,3,2,7-8 hours,4,"No, I wasn't aware",3,3,3,3,More outdoor activities
+11/28/2024 20:51:26,Male,20,170,78,"Sports, Gaming, Music",Ho Chi Minh,CSE,Home with family,4,4,5,5,5,4,3,2,5,5,None,5,5,5,4,4,Less than 5 hours,3,"Yes, but I haven't used them",4,3,5,5,N/A
+11/28/2024 22:11:10,Female,21,1.71,61,"Reading, Gaming, Music",Ho-Chi-Minh-Stadt,CSE,University dormitory,3,4,4,4,3,2,2,3,4,5,None,3,2,4,2,4,6-7 hours,3,"No, I wasn't aware",3,3,2,4,More chances meeting with new people. More accesible to consultation services
+11/28/2024 22:35:13,Male,21,191,83,"Sports, Gaming, Music",Ho Chi Minh City,CSE,University dormitory,4,4,4,4,1,2,3,3,4,4,1,4,4,4,4,3,7-8 hours,3,"No, I wasn't aware",4,4,4,4,
+11/28/2024 22:45:34,Male,19,170,55,"Sports, Reading, Gaming",Tay Ninh,CSE,University dormitory,2,3,3,5,5,4,4,4,5,5,2,2,4,5,3,5,7-8 hours,3,"Yes, but I haven't used them",5,3,5,5,"FY's subjects should be optional courses
+More (advanced) elective courses
+Class schedule is too long (3 hours for a class is sometime not necessary). With 3 hours, the amount of knowledge we receive is sometimes too little or too much.
+"
+11/28/2024 23:30:09,Male,20,172,72,"Sports, Music, Art",Ho Chi Minh,BFA,Home with family,4,5,4,5,2,4,3,5,4,5,None,4,4,5,4,2,Less than 5 hours,3,"Yes, and I've used them",4,4,4,5,
+11/29/2024 8:47:49,Male,21,170,65,Sports,Dong Nai,CSE,University dormitory,3,3,3,5,5,3,2,1,4,4,None,2,2,3,3,3,6-7 hours,3,"No, I wasn't aware",3,2,5,5,
+11/29/2024 9:50:50,Male,20,170,62,"Sports, Reading, Gaming, Music",Ho Chi Minh,CSE,University dormitory,3,3,4,3,3,4,3,3,3,5,1,3,4,3,4,3,5-6 hours,3,"Yes, but I haven't used them",3,3,3,4,
+11/29/2024 11:44:23,Male,21,177,71,"Sports, Music",Hanoi,ECE,University dormitory,3,3,4,4,4,3,2,1,4,4,1,3,3,5,3,4,6-7 hours,4,"Yes, but I haven't used them",2,3,2,2,divide the time of a lesson in half
+11/30/2024 9:36:26,Female,20,155,50,"Reading, Music, Art",Bình Dương,BFA,Home with family,4,3,4,5,3,3,4,3,5,5,3,4,5,5,5,4,More than 8 hours,3,"Yes, and I've used them",4,4,5,5,
+11/30/2024 9:38:16,Male,20,175,75,"Sports, Reading, Gaming, Music",Bình Dương,MEN,Home with family,4,4,5,5,4,3,4,4,5,5,3,4,5,5,5,5,5-6 hours,4,"Yes, and I've used them",4,3,5,5,
+11/30/2024 9:39:48,Male,19,180,80,"Sports, Gaming, Music",Vũng Tàu,MEN,University dormitory,4,4,5,5,4,5,5,4,4,5,3,4,5,5,4,4,5-6 hours,4,"Yes, and I've used them",4,5,4,5,
+11/30/2024 9:44:23,Female,19,153,50,"Gaming, Music",Bình Dương,BFA,Home with family,4,4,3,5,4,4,4,5,4,4,2,4,5,5,4,5,7-8 hours,4,"Yes, and I've used them",4,5,4,5,
+11/30/2024 9:56:39,Male,21,170,62,"Gaming, Music",Hồ Chí Minh,ECE,University dormitory,4,4,4,5,4,5,4,4,5,4,None,4,5,5,5,4,5-6 hours,4,"Yes, and I've used them",5,4,5,5,
+11/30/2024 10:10:05,Male,20,168,65,"Sports, Gaming",Hồ Chí Minh,ECE,Home with family,4,4,4,5,4,4,3,3,4,5,None,4,5,5,4,5,6-7 hours,4,"Yes, but I haven't used them",5,4,4,5,
+11/30/2024 10:13:17,Female,19,157,49,"Gaming, Music",Vũng Tàu,BFA,University dormitory,4,4,5,5,4,4,4,5,4,5,3,5,4,5,4,5,More than 8 hours,5,"Yes, and I've used them",5,4,5,5,
+11/30/2024 10:15:57,Female,19,167,52,"Sports, Reading, Music",Bình Dương,BFA,Home with family,4,5,5,5,5,5,5,4,5,4,None,4,5,5,4,5,More than 8 hours,4,"Yes, but I haven't used them",5,5,4,5,
+11/30/2024 10:17:15,Female,20,159,47,"Reading, Music",Hồ Chí Minh,BFA,University dormitory,5,4,4,5,4,4,5,4,4,5,None,4,5,5,4,4,7-8 hours,4,"Yes, but I haven't used them",5,5,4,5,
+11/30/2024 11:40:52,Male,21,180,50,"Sports, Gaming",Hồ Chí Minh,CSE,University dormitory,4,5,4,4,5,5,5,4,4,5,None,4,5,5,4,5,6-7 hours,5,"Yes, and I've used them",5,5,4,5,
+11/30/2024 12:19:07,Female,20,159,51,"Music, Art",Đồng Tháp,BFA,University dormitory,4,5,4,5,5,4,5,5,4,5,3,2,4,5,4,5,7-8 hours,5,"Yes, and I've used them",5,4,5,5,
+11/30/2024 12:20:13,Male,20,175,80,"Sports, Gaming",An Giang,ECE,University dormitory,4,4,5,5,4,5,5,4,4,5,None,4,5,5,5,5,More than 8 hours,5,"Yes, and I've used them",5,4,5,5,
